@@ -1,18 +1,19 @@
 # Offensive and Defensive Security Lab
 
-**Course Code:** COM-512  
-**Course:** Offensive Defensive Security Lab  
+**Contributor:**Arjun**
+**Course Code:** COM-502  
+**Course:** Offensive and Defensive Security Lab  
 **Program:** B.Tech CSE (Cyber Security)  
-**Institute:** MIET (Autonomous), Jammu
+**Institute:** MIET (Autonomous), Jammu  
 
-This repository contains the laboratory work for **COM-512: Offensive and Defensive Security Lab**.
+This repository contains the laboratory work for **COM-502: Offensive and Defensive Security Lab** and is maintained by **Arjun**.
 
 ## Experiments
 
 1. [Experiment 1: Nmap & Nessus](Experiment-1-Nmap-Nessus/README.md)
 2. [Experiment 2: Metasploit](Exp-2/README.md)
 3. [Experiment 3: Wireshark Traffic Analysis](Exp-3/README.md)
-4. Experiment 4: Firewall & IDS Setup
+4. [Experiment 4: Firewall & IDS Setup](Exp-4/README.md)
 5. Experiment 5: Sniffing & Session Hijacking
 6. Experiment 6: OWASP ZAP
 7. Experiment 7: OSINT Recon
