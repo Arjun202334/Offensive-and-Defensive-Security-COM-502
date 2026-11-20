@@ -18,5 +18,5 @@ This repository contains the laboratory work for **COM-502: Offensive and Defens
 6. [Experiment 6: OWASP ZAP](Exp-6/README.md)
 7. [Experiment 7: OSINT Tools for Reconnaissance](Exp-7/README.md)
 8. [Experiment 8: MITRE ATT&CK Mapping](Exp-8/README.md)
-9. Experiment 9: Hydra Password Guessing
-10. Experiment 10: Gophish Phishing Simulation
+9. [Experiment 9: Password-Guessing Risks and Defenses](Exp-9/README.md)
+10. [Experiment 10: Phishing-Awareness Simulation](Exp-10/README.md)
